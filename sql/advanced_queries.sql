@@ -1,0 +1,1 @@
+-- This file contains the learning contents of the advanced sql.
